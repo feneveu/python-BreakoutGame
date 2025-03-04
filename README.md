@@ -13,6 +13,7 @@ How it works
   comparison without any needed math to calcuate if any collisions occured. I also liked working with my Height and Width variables, which made dynamic objects that could change
   based on the given screen size. 
   Importing fonts and a background image was also really run, I have never done this in a pygame like library before
+  I also used git bash and the command line to save this work so I am happy that I can work with those commands as well as the lovely github UI
 
   Overall this was a fun project and yeah! Will continue to make more!
 
